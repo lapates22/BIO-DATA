@@ -1,0 +1,23 @@
+body{
+	background-color: white;
+}
+table, tr, td{
+	border-collapse: collapse;
+	padding-top: 10px;
+}
+h1{
+	font-size: 15px;
+	margin-left: 15px;
+}
+.tab{
+    tab-size: 4;
+    font-family: inherit;
+    font-size: 13px;
+}
+.tab1{
+	tab-size: 2px;
+	font-size: 14px;
+	font-family: cursive;
+}
+  
+
